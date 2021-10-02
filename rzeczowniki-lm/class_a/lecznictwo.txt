@@ -1,0 +1,4 @@
+twa
+2 lecznictw
+3 lecznictwom
+4

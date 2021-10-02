@@ -1,0 +1,4 @@
+nic
+3 bielnicom
+4 bielnice
+5 bi

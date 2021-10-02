@@ -1,0 +1,4 @@
+1 maszyny
+2 maszyn
+3 maszynom
+4

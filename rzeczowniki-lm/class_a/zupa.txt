@@ -1,0 +1,5 @@
+pom
+4 zupy
+5 zupami
+6 zupach
+7 

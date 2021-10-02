@@ -1,0 +1,4 @@
+dom
+4 pochody
+5 pochodami
+6 poc

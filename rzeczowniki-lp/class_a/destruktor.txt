@@ -1,0 +1,3 @@
+ destruktor
+5 destruktorem
+6 de

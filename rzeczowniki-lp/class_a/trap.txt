@@ -1,0 +1,5 @@
+powi
+4 trap
+5 trapem
+6 trapie
+7

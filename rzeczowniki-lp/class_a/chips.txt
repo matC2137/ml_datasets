@@ -1,0 +1,4 @@
+chipsa
+10 chipsowi
+11 chipsa
+12

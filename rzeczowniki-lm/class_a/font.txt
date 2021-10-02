@@ -1,0 +1,4 @@
+ fonty
+5 fontami
+6 fontach
+7 fo

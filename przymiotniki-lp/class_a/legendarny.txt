@@ -1,0 +1,3 @@
+go
+3 legendarnemu
+4 legendarneg

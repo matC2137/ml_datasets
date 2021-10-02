@@ -1,0 +1,4 @@
+ic
+3 jaglicom
+4 jaglice
+5 jagli

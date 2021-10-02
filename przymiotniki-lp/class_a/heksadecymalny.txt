@@ -1,0 +1,3 @@
+ymalnemu
+4 heksadecymalnego
+5 h

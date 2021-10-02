@@ -1,0 +1,4 @@
+rom
+4 opory
+5 oporami
+6 oporach

@@ -1,0 +1,4 @@
+go
+5 doktorowym
+6 doktorowym
+7 

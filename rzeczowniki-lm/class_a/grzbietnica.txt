@@ -1,0 +1,3 @@
+nic
+3 grzbietnicom
+4 grzbietnic

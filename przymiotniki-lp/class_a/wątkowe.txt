@@ -1,0 +1,4 @@
+tkowemu
+4 wątkowe
+5 wątkowym
+6 

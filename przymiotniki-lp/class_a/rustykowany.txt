@@ -1,0 +1,3 @@
+nemu
+4 rustykowanego
+5 rustykow

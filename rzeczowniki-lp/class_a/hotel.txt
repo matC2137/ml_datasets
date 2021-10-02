@@ -1,0 +1,4 @@
+hotel
+2 hotelu
+3 hotelowi
+4 hot

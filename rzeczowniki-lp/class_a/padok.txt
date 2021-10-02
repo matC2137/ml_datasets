@@ -1,0 +1,4 @@
+ padok
+2 padoku
+3 padokowi
+4 pa

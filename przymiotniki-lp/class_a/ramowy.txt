@@ -1,0 +1,4 @@
+mowemu
+4 ramowego
+5 ramowym
+6 r

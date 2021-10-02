@@ -1,0 +1,3 @@
+tor
+5 selfaktorem
+6 selfaktorze

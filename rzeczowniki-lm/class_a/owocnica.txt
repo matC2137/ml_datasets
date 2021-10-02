@@ -1,0 +1,4 @@
+nic
+3 owocnicom
+4 owocnice
+5 ow

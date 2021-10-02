@@ -1,0 +1,3 @@
+go
+3 zwarciowemu
+4 zwarciowego

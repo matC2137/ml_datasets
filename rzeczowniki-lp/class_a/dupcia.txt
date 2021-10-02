@@ -1,0 +1,5 @@
+pci
+3 dupci
+4 dupcię
+5 dupcią
+6

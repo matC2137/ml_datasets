@@ -1,0 +1,3 @@
+listnego
+5 dwulistnym
+6 dwulist

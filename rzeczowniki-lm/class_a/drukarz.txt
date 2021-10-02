@@ -1,0 +1,3 @@
+drukarzom
+4 drukarzy
+5 drukarza

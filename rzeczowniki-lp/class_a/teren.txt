@@ -1,0 +1,4 @@
+ren
+5 terenem
+6 terenie
+7 teren

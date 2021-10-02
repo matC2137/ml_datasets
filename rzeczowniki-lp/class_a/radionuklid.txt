@@ -1,0 +1,3 @@
+id
+2 radionuklidu
+3 radionuklid

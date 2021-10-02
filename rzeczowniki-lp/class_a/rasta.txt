@@ -1,0 +1,4 @@
+1 rasta
+2 rasta
+3 rasta
+4 rasta

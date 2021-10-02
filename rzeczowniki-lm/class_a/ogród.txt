@@ -1,0 +1,4 @@
+rodom
+4 ogrody
+5 ogrodami
+6 ogr

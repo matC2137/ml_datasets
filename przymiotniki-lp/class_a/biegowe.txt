@@ -1,0 +1,4 @@
+go
+3 biegowemu
+4 biegowe
+5 bieg

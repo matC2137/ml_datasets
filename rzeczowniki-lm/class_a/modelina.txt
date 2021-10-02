@@ -1,0 +1,4 @@
+in
+3 modelinom
+4 modeliny
+5 mod

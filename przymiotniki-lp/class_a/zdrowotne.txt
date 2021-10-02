@@ -1,0 +1,4 @@
+go
+3 zdrowotnemu
+4 zdrowotne
+5 

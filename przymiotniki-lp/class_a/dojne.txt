@@ -1,0 +1,4 @@
+nemu
+4 dojne
+5 dojnym
+6 dojnym

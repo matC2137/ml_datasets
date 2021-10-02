@@ -1,0 +1,4 @@
+bne
+2 zgrabnego
+3 zgrabnemu
+4 z

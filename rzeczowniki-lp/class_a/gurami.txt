@@ -1,0 +1,4 @@
+ami
+3 gurami
+4 gurami
+5 gurami

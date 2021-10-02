@@ -1,0 +1,4 @@
+go
+3 wodnistemu
+4 wodnistego
+5 

@@ -1,0 +1,4 @@
+owi
+4 pigment
+5 pigmentem
+6 pig

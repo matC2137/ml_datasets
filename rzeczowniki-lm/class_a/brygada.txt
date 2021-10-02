@@ -1,0 +1,4 @@
+gad
+3 brygadom
+4 brygady
+5 bryg

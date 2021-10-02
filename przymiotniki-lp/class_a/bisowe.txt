@@ -1,0 +1,4 @@
+go
+3 bisowemu
+4 bisowe
+5 bisowy

@@ -1,0 +1,4 @@
+sta
+3 miastu
+4 miasto
+5 miastem

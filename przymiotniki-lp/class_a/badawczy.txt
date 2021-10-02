@@ -1,0 +1,4 @@
+go
+5 badawczym
+6 badawczym
+7 ba

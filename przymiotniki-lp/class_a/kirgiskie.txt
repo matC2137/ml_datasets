@@ -1,0 +1,4 @@
+go
+3 kirgiskiemu
+4 kirgiskie
+5 

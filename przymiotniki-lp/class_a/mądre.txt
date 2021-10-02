@@ -1,0 +1,5 @@
+go
+3 mądremu
+4 mądre
+5 mądrym
+6

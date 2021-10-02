@@ -1,0 +1,5 @@
+map
+3 mapom
+4 mapy
+5 mapami
+6 m

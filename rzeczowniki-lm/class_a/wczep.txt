@@ -1,0 +1,4 @@
+pom
+4 wczepy
+5 wczepami
+6 wczep

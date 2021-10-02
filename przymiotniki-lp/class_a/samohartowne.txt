@@ -1,0 +1,3 @@
+nemu
+4 samohartowne
+5 samoharto

@@ -1,0 +1,4 @@
+uwom
+4 usuwy
+5 usuwami
+6 usuwac

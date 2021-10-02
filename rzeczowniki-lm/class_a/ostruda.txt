@@ -1,0 +1,4 @@
+dom
+4 ostrudy
+5 ostrudami
+6 ost

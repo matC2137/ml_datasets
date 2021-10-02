@@ -1,0 +1,4 @@
+powemu
+4 czipowego
+5 czipowym
+6

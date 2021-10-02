@@ -1,0 +1,4 @@
+go
+3 rekinowemu
+4 rekinowe
+5 re

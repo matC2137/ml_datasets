@@ -1,0 +1,4 @@
+go
+5 nasielskim
+6 nasielskim
+7 

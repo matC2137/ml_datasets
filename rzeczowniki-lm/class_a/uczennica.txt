@@ -1,0 +1,3 @@
+1 uczennice
+2 uczennic
+3 uczenn

@@ -1,0 +1,4 @@
+run
+3 marunom
+4 maruny
+5 maruna

@@ -1,0 +1,4 @@
+pola
+3 zapolu
+4 zapole
+5 zapole

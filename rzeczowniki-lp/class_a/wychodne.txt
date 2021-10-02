@@ -1,0 +1,4 @@
+emu
+4 wychodne
+5 wychodnym
+6 wy

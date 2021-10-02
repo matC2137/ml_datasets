@@ -1,0 +1,3 @@
+go
+3 laminatowemu
+4 laminatoweg

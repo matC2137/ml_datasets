@@ -1,0 +1,4 @@
+go
+3 redzkiemu
+4 redzkie
+5 redz

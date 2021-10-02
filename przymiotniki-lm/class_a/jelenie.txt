@@ -1,0 +1,4 @@
+nim
+4 jelenie
+5 jelenimi
+6 jele

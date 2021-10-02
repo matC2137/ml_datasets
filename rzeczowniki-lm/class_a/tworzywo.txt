@@ -1,0 +1,3 @@
+ tworzywa
+5 tworzywami
+6 tworzy

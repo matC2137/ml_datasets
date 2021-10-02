@@ -1,0 +1,4 @@
+om
+4 enemy
+5 enemami
+6 enemach

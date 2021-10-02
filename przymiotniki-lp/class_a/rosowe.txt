@@ -1,0 +1,4 @@
+go
+3 rosowemu
+4 rosowe
+5 rosowy

@@ -1,0 +1,4 @@
+nemu
+4 nierówne
+5 nierównym
+6 n

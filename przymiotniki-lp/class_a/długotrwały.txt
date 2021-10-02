@@ -1,0 +1,3 @@
+go
+5 długotrwałym
+6 długotrwały

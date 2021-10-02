@@ -1,0 +1,3 @@
+nemu
+4 dwudziestotysięczne
+5 dw

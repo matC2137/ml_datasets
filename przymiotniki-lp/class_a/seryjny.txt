@@ -1,0 +1,4 @@
+jnemu
+4 seryjnego
+5 seryjnym
+6 

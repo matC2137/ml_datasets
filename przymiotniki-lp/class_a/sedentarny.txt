@@ -1,0 +1,3 @@
+nemu
+4 sedentarnego
+5 sedentarn

@@ -1,0 +1,5 @@
+id
+3 gnidom
+4 gnidy
+5 gnidami
+6

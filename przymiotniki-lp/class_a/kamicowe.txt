@@ -1,0 +1,4 @@
+go
+3 kamicowemu
+4 kamicowe
+5 ka

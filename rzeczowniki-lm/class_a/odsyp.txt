@@ -1,0 +1,4 @@
+3 odsypom
+4 odsypy
+5 odsypami
+6

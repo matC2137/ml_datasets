@@ -1,0 +1,4 @@
+nemu
+4 upiorne
+5 upiornym
+6 upi

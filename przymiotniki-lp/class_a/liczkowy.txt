@@ -1,0 +1,4 @@
+go
+3 liczkowemu
+4 liczkowego
+5 

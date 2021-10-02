@@ -1,0 +1,4 @@
+nom
+4 klony
+5 klonami
+6 klonach

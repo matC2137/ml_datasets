@@ -1,0 +1,4 @@
+stne
+5 listnym
+6 listnym
+7 list

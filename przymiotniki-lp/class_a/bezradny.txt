@@ -1,0 +1,3 @@
+radnemu
+4 bezradnego
+5 bezradny

@@ -1,0 +1,4 @@
+myo
+4 daimyo
+5 daimyo
+6 daimyo

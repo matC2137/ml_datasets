@@ -1,0 +1,4 @@
+rom
+5 ogromem
+6 ogromie
+7 ogrom

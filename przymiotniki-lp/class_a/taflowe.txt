@@ -1,0 +1,4 @@
+ego
+3 taflowemu
+4 taflowe
+5 taf

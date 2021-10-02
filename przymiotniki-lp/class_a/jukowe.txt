@@ -1,0 +1,4 @@
+go
+3 jukowemu
+4 jukowe
+5 jukowy

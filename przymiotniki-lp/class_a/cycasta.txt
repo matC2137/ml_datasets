@@ -1,0 +1,4 @@
+sta
+2 cycastej
+3 cycastej
+4 cyc

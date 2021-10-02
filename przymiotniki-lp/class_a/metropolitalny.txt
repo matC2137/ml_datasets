@@ -1,0 +1,3 @@
+go
+5 metropolitalnym
+6 metropol

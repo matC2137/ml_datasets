@@ -1,0 +1,4 @@
+ fibuli
+3 fibuli
+4 fibulę
+5 fib

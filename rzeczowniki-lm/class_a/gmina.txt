@@ -1,0 +1,5 @@
+gminy
+2 gmin
+3 gminom
+4 gminy
+5

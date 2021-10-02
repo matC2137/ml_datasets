@@ -1,0 +1,3 @@
+tonowi
+4 singleton
+5 singletone

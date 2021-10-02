@@ -1,0 +1,4 @@
+go
+3 gurowemu
+4 gurowe
+5 gurowy

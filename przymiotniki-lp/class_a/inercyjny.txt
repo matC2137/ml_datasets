@@ -1,0 +1,3 @@
+go
+3 inercyjnemu
+4 inercyjnego

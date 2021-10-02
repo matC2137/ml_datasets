@@ -1,0 +1,3 @@
+neratorom
+4 gazogeneratory
+5 ga

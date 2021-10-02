@@ -1,0 +1,5 @@
+gga
+2 koggi
+3 kogdze
+4 koggę
+5 

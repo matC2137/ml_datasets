@@ -1,0 +1,3 @@
+nemu
+4 transpozycyjne
+5 transpo

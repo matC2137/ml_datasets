@@ -1,0 +1,3 @@
+torium
+2 dormitorium
+3 dormitor

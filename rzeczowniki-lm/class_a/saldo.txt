@@ -1,0 +1,4 @@
+ldom
+4 salda
+5 saldami
+6 saldac

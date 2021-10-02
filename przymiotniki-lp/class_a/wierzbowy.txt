@@ -1,0 +1,4 @@
+go
+5 wierzbowym
+6 wierzbowym
+7 

@@ -1,0 +1,4 @@
+i
+3 zbrojom
+4 zbroje
+5 zbrojami

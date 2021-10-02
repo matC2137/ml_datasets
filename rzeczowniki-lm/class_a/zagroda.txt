@@ -1,0 +1,4 @@
+grody
+5 zagrodami
+6 zagrodach
+7

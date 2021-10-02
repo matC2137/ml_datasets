@@ -1,0 +1,4 @@
+go
+3 śrubowemu
+4 śrubowe
+5 śrub

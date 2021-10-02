@@ -1,0 +1,5 @@
+go
+3 złemu
+4 złe
+5 złym
+6 złym

@@ -1,0 +1,3 @@
+idalnemu
+4 libidalnego
+5 libida

@@ -1,0 +1,4 @@
+ parceli
+3 parcelom
+4 parcele
+5

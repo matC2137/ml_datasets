@@ -1,0 +1,4 @@
+net
+5 bitnetem
+6 bitnecie
+7 bit

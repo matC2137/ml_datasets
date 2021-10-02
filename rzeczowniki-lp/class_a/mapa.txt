@@ -1,0 +1,5 @@
+py
+3 mapie
+4 mapę
+5 mapą
+6 mapi

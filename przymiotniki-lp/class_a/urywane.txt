@@ -1,0 +1,4 @@
+go
+3 urywanemu
+4 urywane
+5 uryw

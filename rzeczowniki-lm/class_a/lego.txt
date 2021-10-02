@@ -1,0 +1,5 @@
+go
+3 lego
+4 lego
+5 lego
+6 lego

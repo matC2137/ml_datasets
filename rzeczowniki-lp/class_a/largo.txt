@@ -1,0 +1,5 @@
+go
+4 largo
+5 largo
+6 largo
+7 la

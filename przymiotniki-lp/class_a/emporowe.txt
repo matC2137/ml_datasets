@@ -1,0 +1,4 @@
+go
+3 emporowemu
+4 emporowe
+5 em

@@ -1,0 +1,4 @@
+lam
+10 lamom
+11 lamy
+12 lamami

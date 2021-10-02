@@ -1,0 +1,4 @@
+pesze
+5 pepeszami
+6 pepeszach
+7

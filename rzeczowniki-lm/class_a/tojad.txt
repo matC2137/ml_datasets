@@ -1,0 +1,4 @@
+dom
+4 tojady
+5 tojadami
+6 tojad

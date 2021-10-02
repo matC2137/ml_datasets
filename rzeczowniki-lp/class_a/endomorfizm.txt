@@ -1,0 +1,3 @@
+domorfizm
+5 endomorfizmem
+6 end

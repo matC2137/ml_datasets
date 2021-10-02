@@ -1,0 +1,3 @@
+eregi
+2 czwórszeregów
+3 czwórsz

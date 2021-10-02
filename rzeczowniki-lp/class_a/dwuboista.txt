@@ -1,0 +1,4 @@
+sta
+2 dwuboisty
+3 dwuboiście
+4 

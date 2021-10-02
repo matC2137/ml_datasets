@@ -1,0 +1,4 @@
+nemu
+4 cudnego
+5 cudnym
+6 cudny

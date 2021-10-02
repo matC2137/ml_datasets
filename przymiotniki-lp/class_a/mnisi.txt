@@ -1,0 +1,4 @@
+go
+3 mnisiemu
+4 mnisiego
+5 mnis

@@ -1,0 +1,4 @@
+zdom
+4 jazdy
+5 jazdami
+6 jazdac

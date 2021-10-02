@@ -1,0 +1,4 @@
+lnic
+3 skalnicom
+4 skalnice
+5 s

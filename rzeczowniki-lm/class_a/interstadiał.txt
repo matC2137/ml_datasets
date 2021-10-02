@@ -1,0 +1,3 @@
+stadiałom
+4 interstadiały
+5 int

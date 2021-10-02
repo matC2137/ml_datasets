@@ -1,0 +1,4 @@
+go
+3 lepowemu
+4 lepowe
+5 lepowy

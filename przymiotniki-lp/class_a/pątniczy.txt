@@ -1,0 +1,4 @@
+zemu
+4 pątniczego
+5 pątniczym
+6

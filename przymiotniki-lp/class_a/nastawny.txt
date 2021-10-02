@@ -1,0 +1,4 @@
+go
+3 nastawnemu
+4 nastawnego
+5 

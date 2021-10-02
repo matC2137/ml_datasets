@@ -1,0 +1,4 @@
+go
+3 bezkarnemu
+4 bezkarne
+5 be

@@ -1,0 +1,4 @@
+syp
+3 wsypom
+4 wsypy
+5 wsypami

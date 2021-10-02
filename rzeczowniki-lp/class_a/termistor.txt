@@ -1,0 +1,3 @@
+termistor
+2 termistora
+3 termis

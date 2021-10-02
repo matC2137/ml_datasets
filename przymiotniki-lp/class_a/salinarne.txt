@@ -1,0 +1,4 @@
+nemu
+4 salinarne
+5 salinarnym
+6

@@ -1,0 +1,4 @@
+go
+5 targowym
+6 targowym
+7 targ

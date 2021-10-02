@@ -1,0 +1,4 @@
+go
+3 hreczanemu
+4 hreczane
+5 hr

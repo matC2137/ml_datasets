@@ -1,0 +1,3 @@
+nemu
+4 czasochłonne
+5 czasochło

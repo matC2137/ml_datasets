@@ -1,0 +1,3 @@
+2 biegaczy
+3 biegaczom
+4 biegac

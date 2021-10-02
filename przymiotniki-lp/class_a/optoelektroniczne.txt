@@ -1,0 +1,3 @@
+nemu
+4 optoelektroniczne
+5 opto

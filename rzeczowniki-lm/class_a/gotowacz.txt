@@ -1,0 +1,4 @@
+e
+2 gotowaczy
+3 gotowaczom
+4 go

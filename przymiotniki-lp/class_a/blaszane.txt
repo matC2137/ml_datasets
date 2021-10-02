@@ -1,0 +1,4 @@
+nemu
+4 blaszane
+5 blaszanym
+6 b

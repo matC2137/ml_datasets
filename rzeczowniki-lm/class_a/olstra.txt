@@ -1,0 +1,4 @@
+rom
+4 olstry
+5 olstrami
+6 olstr

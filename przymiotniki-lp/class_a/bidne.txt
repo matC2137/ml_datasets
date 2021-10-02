@@ -1,0 +1,5 @@
+go
+3 bidnemu
+4 bidne
+5 bidnym
+6

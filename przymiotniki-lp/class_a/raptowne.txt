@@ -1,0 +1,4 @@
+nemu
+4 raptowne
+5 raptownym
+6 r

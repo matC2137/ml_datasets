@@ -1,0 +1,4 @@
+ice
+2 omacnic
+3 omacnicom
+4 oma

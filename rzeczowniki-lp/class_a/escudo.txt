@@ -1,0 +1,4 @@
+do
+10 escudo
+11 escudo
+12 escud

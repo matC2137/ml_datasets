@@ -1,0 +1,4 @@
+nic
+3 lnicom
+4 lnice
+5 lnicami

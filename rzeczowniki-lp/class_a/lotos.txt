@@ -1,0 +1,4 @@
+os
+5 lotosem
+6 lotosie
+7 lotosi

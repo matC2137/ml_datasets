@@ -1,0 +1,3 @@
+3 grubawemu
+4 grubawego
+5 gruba

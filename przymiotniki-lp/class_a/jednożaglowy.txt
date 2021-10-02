@@ -1,0 +1,3 @@
+go
+3 jednożaglowemu
+4 jednożagl

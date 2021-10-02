@@ -1,0 +1,4 @@
+go
+3 kolebowemu
+4 kolebowe
+5 ko

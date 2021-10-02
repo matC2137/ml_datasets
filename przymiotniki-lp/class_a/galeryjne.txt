@@ -1,0 +1,4 @@
+nemu
+4 galeryjne
+5 galeryjnym
+6

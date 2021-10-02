@@ -1,0 +1,4 @@
+stel
+5 hostelem
+6 hostelu
+7 hos

@@ -1,0 +1,4 @@
+zerowi
+4 mazer
+5 mazerem
+6 maze

@@ -1,0 +1,4 @@
+go
+3 skroniowemu
+4 skroniowe
+5 

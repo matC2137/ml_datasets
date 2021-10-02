@@ -1,0 +1,4 @@
+nemu
+4 parne
+5 parnym
+6 parnym

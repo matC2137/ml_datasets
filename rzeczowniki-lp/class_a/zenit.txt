@@ -1,0 +1,4 @@
+nit
+5 zenitem
+6 zenicie
+7 zenic

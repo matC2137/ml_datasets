@@ -1,0 +1,4 @@
+1 walizka
+2 walizki
+3 walizce
+4

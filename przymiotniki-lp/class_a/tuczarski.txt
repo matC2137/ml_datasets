@@ -1,0 +1,4 @@
+go
+5 tuczarskim
+6 tuczarskim
+7 

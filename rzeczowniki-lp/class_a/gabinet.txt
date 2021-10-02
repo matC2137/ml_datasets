@@ -1,0 +1,4 @@
+net
+5 gabinetem
+6 gabinecie
+7 g

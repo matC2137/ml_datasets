@@ -1,0 +1,4 @@
+wiec
+9 tankowca
+10 tankowcowi
+1

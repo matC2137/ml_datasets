@@ -1,0 +1,3 @@
+go
+5 skrzydlatym
+6 skrzydlatym

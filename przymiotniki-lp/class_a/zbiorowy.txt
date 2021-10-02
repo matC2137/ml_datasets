@@ -1,0 +1,4 @@
+go
+3 zbiorowemu
+4 zbiorowego
+5 

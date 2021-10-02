@@ -1,0 +1,4 @@
+wemu
+4 wątrobowe
+5 wątrobowym
+6

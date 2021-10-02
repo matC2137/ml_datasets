@@ -1,0 +1,4 @@
+n
+3 baskinom
+4 baskiny
+5 baskin

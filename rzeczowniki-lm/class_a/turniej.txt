@@ -1,0 +1,3 @@
+ turnieje
+5 turniejami
+6 turnie

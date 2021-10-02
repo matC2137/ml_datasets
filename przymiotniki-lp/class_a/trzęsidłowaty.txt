@@ -1,0 +1,3 @@
+go
+5 trzęsidłowatym
+6 trzęsidło

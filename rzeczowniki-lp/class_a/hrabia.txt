@@ -1,0 +1,4 @@
+go
+3 hrabiemu
+4 hrabiego
+5 hrab

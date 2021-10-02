@@ -1,0 +1,5 @@
+nom
+4 okna
+5 oknami
+6 oknach
+7 

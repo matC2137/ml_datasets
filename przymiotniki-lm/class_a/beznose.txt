@@ -1,0 +1,4 @@
+nose
+5 beznosymi
+6 beznosych
+7 

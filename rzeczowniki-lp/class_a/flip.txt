@@ -1,0 +1,4 @@
+powi
+4 flipa
+5 flipem
+6 flipie

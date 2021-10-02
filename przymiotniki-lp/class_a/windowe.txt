@@ -1,0 +1,4 @@
+ego
+3 windowemu
+4 windowe
+5 win

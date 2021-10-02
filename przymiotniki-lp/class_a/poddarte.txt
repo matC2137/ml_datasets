@@ -1,0 +1,4 @@
+rte
+2 poddartego
+3 poddartemu
+4

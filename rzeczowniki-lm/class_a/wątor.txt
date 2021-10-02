@@ -1,0 +1,4 @@
+1 wątory
+2 wątorów
+3 wątorom
+4 

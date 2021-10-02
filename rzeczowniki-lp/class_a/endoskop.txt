@@ -1,0 +1,4 @@
+powi
+4 endoskop
+5 endoskopem
+6 

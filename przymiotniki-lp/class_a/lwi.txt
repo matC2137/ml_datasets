@@ -1,0 +1,4 @@
+ lwi
+2 lwiego
+3 lwiemu
+4 lwiego

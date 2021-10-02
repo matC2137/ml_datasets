@@ -1,0 +1,4 @@
+wca
+3 zawodowcowi
+4 zawodowca
+5

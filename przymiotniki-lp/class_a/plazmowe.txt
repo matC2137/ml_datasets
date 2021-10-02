@@ -1,0 +1,4 @@
+go
+3 plazmowemu
+4 plazmowe
+5 pl

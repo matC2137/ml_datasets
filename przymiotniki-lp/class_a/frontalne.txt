@@ -1,0 +1,4 @@
+nemu
+4 frontalne
+5 frontalnym
+6

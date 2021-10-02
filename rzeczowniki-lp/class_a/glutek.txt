@@ -1,0 +1,4 @@
+ glutka
+3 glutkowi
+4 glutek
+5 g

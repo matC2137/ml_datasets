@@ -1,0 +1,4 @@
+go
+3 dotykalnemu
+4 dotykalne
+5 

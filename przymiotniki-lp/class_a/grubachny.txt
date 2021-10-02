@@ -1,0 +1,3 @@
+go
+3 grubachnemu
+4 grubachnego

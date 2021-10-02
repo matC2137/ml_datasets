@@ -1,0 +1,4 @@
+go
+3 bladszemu
+4 bladszego
+5 bl

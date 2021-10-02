@@ -1,0 +1,4 @@
+ hetero
+2 hetero
+3 hetero
+4 het

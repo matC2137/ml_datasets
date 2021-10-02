@@ -1,0 +1,4 @@
+go
+5 trapowym
+6 trapowym
+7 trap

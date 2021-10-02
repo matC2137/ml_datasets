@@ -1,0 +1,4 @@
+pom
+4 teleskopy
+5 teleskopami
+6

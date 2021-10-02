@@ -1,0 +1,4 @@
+go
+3 klocowemu
+4 klocowe
+5 kloc

@@ -1,0 +1,4 @@
+gra
+2 współgry
+3 współgrze
+4 ws

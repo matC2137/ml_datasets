@@ -1,0 +1,4 @@
+go
+3 kajprowemu
+4 kajprowego
+5 

@@ -1,0 +1,3 @@
+trie
+5 aksonometriami
+6 aksonom

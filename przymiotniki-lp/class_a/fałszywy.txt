@@ -1,0 +1,4 @@
+go
+3 fałszywemu
+4 fałszywego
+5 

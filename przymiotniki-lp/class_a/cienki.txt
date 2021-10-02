@@ -1,0 +1,4 @@
+go
+3 cienkiemu
+4 cienkiego
+5 ci

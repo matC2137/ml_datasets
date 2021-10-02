@@ -1,0 +1,4 @@
+go
+5 dziarskim
+6 dziarskim
+7 dz

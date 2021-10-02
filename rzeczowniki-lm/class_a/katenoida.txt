@@ -1,0 +1,3 @@
+atenoid
+3 katenoidom
+4 katenoid

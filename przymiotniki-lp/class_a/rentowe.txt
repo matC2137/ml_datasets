@@ -1,0 +1,4 @@
+go
+3 rentowemu
+4 rentowe
+5 rent

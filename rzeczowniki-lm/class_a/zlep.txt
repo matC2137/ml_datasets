@@ -1,0 +1,4 @@
+epom
+4 zlepy
+5 zlepami
+6 zlepac

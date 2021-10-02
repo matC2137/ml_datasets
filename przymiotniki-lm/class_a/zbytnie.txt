@@ -1,0 +1,4 @@
+nim
+4 zbytnie
+5 zbytnimi
+6 zbyt

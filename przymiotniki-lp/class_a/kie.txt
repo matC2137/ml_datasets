@@ -1,0 +1,6 @@
+go
+3 kiemu
+4 kie
+5 kim
+6 kim
+7 

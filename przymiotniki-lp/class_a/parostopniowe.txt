@@ -1,0 +1,3 @@
+wemu
+4 parostopniowe
+5 parostop

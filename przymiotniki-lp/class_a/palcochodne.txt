@@ -1,0 +1,3 @@
+dnemu
+4 palcochodne
+5 palcochod

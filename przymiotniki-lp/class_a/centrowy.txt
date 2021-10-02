@@ -1,0 +1,4 @@
+go
+3 centrowemu
+4 centrowego
+5 

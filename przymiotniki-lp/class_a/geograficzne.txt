@@ -1,0 +1,3 @@
+nemu
+4 geograficzne
+5 geografic

@@ -1,0 +1,4 @@
+go
+5 sekundowym
+6 sekundowym
+7 

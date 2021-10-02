@@ -1,0 +1,4 @@
+go
+3 perkatemu
+4 perkatego
+5 pe

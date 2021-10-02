@@ -1,0 +1,3 @@
+nemu
+4 amfibiotyczne
+5 amfibiot

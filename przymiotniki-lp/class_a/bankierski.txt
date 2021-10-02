@@ -1,0 +1,3 @@
+rskiemu
+4 bankierskiego
+5 banki

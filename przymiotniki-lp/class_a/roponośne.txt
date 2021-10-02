@@ -1,0 +1,4 @@
+nemu
+4 roponośne
+5 roponośnym
+6

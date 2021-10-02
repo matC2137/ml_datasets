@@ -1,0 +1,4 @@
+ oplot
+5 oplotem
+6 oplocie
+7 op

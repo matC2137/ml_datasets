@@ -1,0 +1,4 @@
+go
+3 borsuczemu
+4 borsuczego
+5 

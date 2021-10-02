@@ -1,0 +1,5 @@
+go
+3 hyrnemu
+4 hyrne
+5 hyrnym
+6

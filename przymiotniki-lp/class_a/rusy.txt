@@ -1,0 +1,5 @@
+semu
+4 rusego
+5 rusym
+6 rusym
+7

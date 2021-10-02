@@ -1,0 +1,4 @@
+memu
+4 ruchomego
+5 ruchomym
+6 r

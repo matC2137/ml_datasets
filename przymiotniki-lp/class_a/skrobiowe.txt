@@ -1,0 +1,4 @@
+go
+3 skrobiowemu
+4 skrobiowe
+5 

@@ -1,0 +1,4 @@
+go
+5 beznosym
+6 beznosym
+7 bezn

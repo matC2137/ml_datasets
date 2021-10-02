@@ -1,0 +1,4 @@
+nemu
+4 czepne
+5 czepnym
+6 czepn

@@ -1,0 +1,3 @@
+skiemu
+4 komandoskie
+5 komandos

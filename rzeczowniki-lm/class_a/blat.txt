@@ -1,0 +1,4 @@
+atom
+4 blaty
+5 blatami
+6 blatac

@@ -1,0 +1,5 @@
+rm
+2 permu
+3 permowi
+4 perm
+5 p

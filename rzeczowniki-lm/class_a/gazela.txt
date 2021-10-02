@@ -1,0 +1,4 @@
+lom
+4 gazele
+5 gazelami
+6 gazel

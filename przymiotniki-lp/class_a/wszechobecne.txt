@@ -1,0 +1,3 @@
+cne
+5 wszechobecnym
+6 wszechobe

@@ -1,0 +1,4 @@
+ownik
+2 ceownika
+3 ceownikowi
+4

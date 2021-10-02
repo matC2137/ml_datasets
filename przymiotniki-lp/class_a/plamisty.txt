@@ -1,0 +1,4 @@
+go
+5 plamistym
+6 plamistym
+7 pl

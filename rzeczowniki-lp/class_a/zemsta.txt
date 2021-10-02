@@ -1,0 +1,4 @@
+sta
+2 zemsty
+3 zemście
+4 zemstę

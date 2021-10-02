@@ -1,0 +1,3 @@
+setne
+5 trzechsetnym
+6 trzechse

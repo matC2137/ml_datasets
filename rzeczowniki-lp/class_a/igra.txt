@@ -1,0 +1,5 @@
+ igry
+3 igrze
+4 igrę
+5 igrą
+6 i

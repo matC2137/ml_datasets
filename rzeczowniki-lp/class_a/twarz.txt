@@ -1,0 +1,4 @@
+1 twarz
+2 twarzy
+3 twarzy
+4 twa

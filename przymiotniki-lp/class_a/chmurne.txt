@@ -1,0 +1,4 @@
+go
+3 chmurnemu
+4 chmurne
+5 chmu

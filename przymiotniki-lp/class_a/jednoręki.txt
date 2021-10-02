@@ -1,0 +1,4 @@
+go
+5 jednorękim
+6 jednorękim
+7 

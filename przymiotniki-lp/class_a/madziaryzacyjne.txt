@@ -1,0 +1,3 @@
+nemu
+4 madziaryzacyjne
+5 madzia

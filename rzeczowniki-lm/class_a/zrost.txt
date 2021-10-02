@@ -1,0 +1,4 @@
+rosty
+5 zrostami
+6 zrostach
+7 z

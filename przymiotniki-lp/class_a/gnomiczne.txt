@@ -1,0 +1,4 @@
+nemu
+4 gnomiczne
+5 gnomicznym
+6

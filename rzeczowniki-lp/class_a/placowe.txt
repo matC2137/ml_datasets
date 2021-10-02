@@ -1,0 +1,4 @@
+go
+3 placowemu
+4 placowe
+5 plac

@@ -1,0 +1,3 @@
+go
+5 czarnopiennym
+6 czarnopien

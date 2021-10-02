@@ -1,0 +1,4 @@
+atrom
+4 teatry
+5 teatrami
+6 tea

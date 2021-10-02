@@ -1,0 +1,3 @@
+go
+3 bogobojnemu
+4 bogobojnego

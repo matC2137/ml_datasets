@@ -1,0 +1,5 @@
+d
+3 odom
+4 ody
+5 odami
+6 odach

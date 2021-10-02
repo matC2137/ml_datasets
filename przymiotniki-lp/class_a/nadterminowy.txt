@@ -1,0 +1,3 @@
+go
+3 nadterminowemu
+4 nadtermin

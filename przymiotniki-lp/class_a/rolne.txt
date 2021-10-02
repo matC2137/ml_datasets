@@ -1,0 +1,4 @@
+nemu
+4 rolne
+5 rolnym
+6 rolnym

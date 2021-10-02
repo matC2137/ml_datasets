@@ -1,0 +1,3 @@
+skiemu
+4 farbiarskiego
+5 farbia

@@ -1,0 +1,4 @@
+cin
+3 gościnom
+4 gościny
+5 gośc

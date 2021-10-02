@@ -1,0 +1,3 @@
+go
+3 bezwarunkowemu
+4 bezwarunk

@@ -1,0 +1,4 @@
+go
+3 bucowatemu
+4 bucowatego
+5 

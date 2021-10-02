@@ -1,0 +1,4 @@
+nemu
+4 chorobne
+5 chorobnym
+6 c

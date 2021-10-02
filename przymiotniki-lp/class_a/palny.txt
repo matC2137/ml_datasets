@@ -1,0 +1,4 @@
+go
+3 palnemu
+4 palnego
+5 palnym

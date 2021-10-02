@@ -1,0 +1,3 @@
+4 gazety
+5 gazetami
+6 gazetach

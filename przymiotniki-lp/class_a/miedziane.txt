@@ -1,0 +1,4 @@
+nemu
+4 miedziane
+5 miedzianym
+6

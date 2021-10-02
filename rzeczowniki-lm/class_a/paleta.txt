@@ -1,0 +1,4 @@
+let
+3 paletom
+4 palety
+5 paleta

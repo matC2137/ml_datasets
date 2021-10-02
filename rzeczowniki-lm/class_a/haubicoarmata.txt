@@ -1,0 +1,3 @@
+coarmat
+3 haubicoarmatom
+4 haub

@@ -1,0 +1,3 @@
+isekundy
+2 milisekund
+3 milisek

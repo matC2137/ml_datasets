@@ -1,0 +1,4 @@
+go
+3 kokockiemu
+4 kokockie
+5 ko

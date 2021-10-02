@@ -1,0 +1,3 @@
+4 interfazy
+5 interfazami
+6 int

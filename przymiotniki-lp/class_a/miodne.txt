@@ -1,0 +1,4 @@
+nemu
+4 miodne
+5 miodnym
+6 miodn

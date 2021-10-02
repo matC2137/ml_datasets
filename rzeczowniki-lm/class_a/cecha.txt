@@ -1,0 +1,5 @@
+cechy
+2 cech
+3 cechom
+4 cechy
+5

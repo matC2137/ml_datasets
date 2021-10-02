@@ -1,0 +1,4 @@
+min
+3 laminom
+4 laminy
+5 lamina

@@ -1,0 +1,4 @@
+rnemu
+4 binarnego
+5 binarnym
+6 

@@ -1,0 +1,4 @@
+go
+5 cyklicznym
+6 cyklicznym
+7 

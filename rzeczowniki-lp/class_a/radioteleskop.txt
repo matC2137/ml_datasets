@@ -1,0 +1,3 @@
+op
+2 radioteleskopu
+3 radiotele

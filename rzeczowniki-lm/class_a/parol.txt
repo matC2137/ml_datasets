@@ -1,0 +1,4 @@
+parole
+5 parolami
+6 parolach
+7 

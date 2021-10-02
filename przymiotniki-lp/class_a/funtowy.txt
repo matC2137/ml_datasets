@@ -1,0 +1,4 @@
+go
+3 funtowemu
+4 funtowego
+5 fu

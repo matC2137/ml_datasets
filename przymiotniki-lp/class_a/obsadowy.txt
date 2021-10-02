@@ -1,0 +1,4 @@
+go
+3 obsadowemu
+4 obsadowego
+5 

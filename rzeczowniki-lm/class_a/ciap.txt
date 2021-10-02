@@ -1,0 +1,4 @@
+ciapom
+4 ciapy
+5 ciapami
+6 ciap

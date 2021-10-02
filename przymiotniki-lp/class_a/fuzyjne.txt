@@ -1,0 +1,4 @@
+nemu
+4 fuzyjne
+5 fuzyjnym
+6 fuz

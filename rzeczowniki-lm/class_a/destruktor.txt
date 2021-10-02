@@ -1,0 +1,3 @@
+rom
+11 destruktorów
+12 destrukt

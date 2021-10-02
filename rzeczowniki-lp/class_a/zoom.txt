@@ -1,0 +1,4 @@
+ zoom
+5 zoomem
+6 zoomie
+7 zoomi

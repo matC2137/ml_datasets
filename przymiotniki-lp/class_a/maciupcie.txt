@@ -1,0 +1,4 @@
+iemu
+4 maciupcie
+5 maciupcim
+6 

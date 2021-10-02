@@ -1,0 +1,3 @@
+go
+3 dwupolowemu
+4 dwupolowego

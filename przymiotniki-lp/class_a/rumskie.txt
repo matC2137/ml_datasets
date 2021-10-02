@@ -1,0 +1,4 @@
+go
+3 rumskiemu
+4 rumskie
+5 rums

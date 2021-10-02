@@ -1,0 +1,4 @@
+sta
+2 plamiastej
+3 plamiastej
+4

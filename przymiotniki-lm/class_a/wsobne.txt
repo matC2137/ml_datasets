@@ -1,0 +1,4 @@
+bne
+2 wsobnych
+3 wsobnym
+4 wsob

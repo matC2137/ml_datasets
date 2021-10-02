@@ -1,0 +1,3 @@
+ktor
+5 dysektorem
+6 dysektorze

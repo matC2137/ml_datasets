@@ -1,0 +1,4 @@
+nemu
+4 warzelnego
+5 warzelnym
+6

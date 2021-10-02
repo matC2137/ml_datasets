@@ -1,0 +1,4 @@
+go
+3 bazarowemu
+4 bazarowego
+5 

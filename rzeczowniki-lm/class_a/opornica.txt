@@ -1,0 +1,4 @@
+rnic
+3 opornicom
+4 opornice
+5 o

@@ -1,0 +1,3 @@
+skiemu
+4 gitowskie
+5 gitowskim

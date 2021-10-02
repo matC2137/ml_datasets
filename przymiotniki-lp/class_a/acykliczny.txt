@@ -1,0 +1,3 @@
+go
+5 acyklicznym
+6 acyklicznym

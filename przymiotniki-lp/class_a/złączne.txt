@@ -1,0 +1,4 @@
+nemu
+4 złączne
+5 złącznym
+6 złą

@@ -1,0 +1,4 @@
+go
+5 chmielnym
+6 chmielnym
+7 ch

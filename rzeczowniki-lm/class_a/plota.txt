@@ -1,0 +1,4 @@
+ ploty
+5 plotami
+6 plotach
+7 pl

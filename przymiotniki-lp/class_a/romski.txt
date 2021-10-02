@@ -1,0 +1,4 @@
+emu
+4 romskiego
+5 romskim
+6 rom

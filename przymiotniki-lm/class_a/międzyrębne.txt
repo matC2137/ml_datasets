@@ -1,0 +1,3 @@
+bne
+2 międzyrębnych
+3 międzyręb

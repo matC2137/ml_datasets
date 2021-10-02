@@ -1,0 +1,4 @@
+nemu
+4 omowne
+5 omownym
+6 omown

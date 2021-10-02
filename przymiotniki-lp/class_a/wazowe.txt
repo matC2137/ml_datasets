@@ -1,0 +1,4 @@
+emu
+4 wazowe
+5 wazowym
+6 wazowy

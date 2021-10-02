@@ -1,0 +1,4 @@
+emu
+4 zapalone
+5 zapalonym
+6 za

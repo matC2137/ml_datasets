@@ -1,0 +1,4 @@
+go
+5 figlarskim
+6 figlarskim
+7 

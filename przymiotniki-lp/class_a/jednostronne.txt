@@ -1,0 +1,3 @@
+nemu
+4 jednostronne
+5 jednostro

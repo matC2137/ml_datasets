@@ -1,0 +1,4 @@
+nemu
+4 zupne
+5 zupnym
+6 zupnym

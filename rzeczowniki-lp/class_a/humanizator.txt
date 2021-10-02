@@ -1,0 +1,3 @@
+ humanizatora
+5 humanizatorem
+6

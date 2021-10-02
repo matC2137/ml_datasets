@@ -1,0 +1,5 @@
+go
+3 gołemu
+4 gołego
+5 gołym
+6 

@@ -1,0 +1,5 @@
+ic
+3 picom
+4 pice
+5 picami
+6 pi

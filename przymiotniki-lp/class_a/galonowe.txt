@@ -1,0 +1,4 @@
+go
+3 galonowemu
+4 galonowe
+5 ga

@@ -1,0 +1,4 @@
+iowemu
+4 rtęciowe
+5 rtęciowym
+6

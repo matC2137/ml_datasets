@@ -1,0 +1,4 @@
+sta
+2 hakatysty
+3 hakatyście
+4 

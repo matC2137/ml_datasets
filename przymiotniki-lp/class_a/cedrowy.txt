@@ -1,0 +1,4 @@
+go
+3 cedrowemu
+4 cedrowego
+5 ce

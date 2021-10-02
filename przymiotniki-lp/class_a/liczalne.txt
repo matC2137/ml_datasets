@@ -1,0 +1,4 @@
+nemu
+4 liczalne
+5 liczalnym
+6 l

@@ -1,0 +1,4 @@
+rminom
+4 karminy
+5 karminami
+6 

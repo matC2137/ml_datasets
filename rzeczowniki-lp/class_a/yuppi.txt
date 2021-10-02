@@ -1,0 +1,4 @@
+go
+3 yuppiemu
+4 yuppiego
+5 yupp

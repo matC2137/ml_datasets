@@ -1,0 +1,4 @@
+nemu
+4 zbliżonego
+5 zbliżonym
+6

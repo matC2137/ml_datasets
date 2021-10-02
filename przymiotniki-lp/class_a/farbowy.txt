@@ -1,0 +1,4 @@
+go
+3 farbowemu
+4 farbowego
+5 fa

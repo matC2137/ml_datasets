@@ -1,0 +1,4 @@
+go
+3 chorobnemu
+4 chorobnego
+5 

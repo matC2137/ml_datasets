@@ -1,0 +1,4 @@
+nim
+4 dodatnich
+5 dodatnimi
+6 d

@@ -1,0 +1,4 @@
+iom
+4 wartownie
+5 wartowniami
+6

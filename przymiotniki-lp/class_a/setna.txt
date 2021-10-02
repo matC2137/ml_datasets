@@ -1,0 +1,4 @@
+1 setna
+2 setnej
+3 setnej
+4 set

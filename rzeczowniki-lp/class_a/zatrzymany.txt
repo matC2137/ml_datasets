@@ -1,0 +1,3 @@
+nemu
+4 zatrzymanego
+5 zatrzyman

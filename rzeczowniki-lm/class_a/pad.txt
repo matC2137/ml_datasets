@@ -1,0 +1,4 @@
+3 padom
+4 pady
+5 padami
+6 padac

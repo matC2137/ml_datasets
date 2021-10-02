@@ -1,0 +1,4 @@
+zom
+4 radiowozy
+5 radiowozami
+6

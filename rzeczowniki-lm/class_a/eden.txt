@@ -1,0 +1,4 @@
+deny
+5 edenami
+6 edenach
+7 eden

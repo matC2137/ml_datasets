@@ -1,0 +1,3 @@
+noidowi
+4 solenoid
+5 solenoidem

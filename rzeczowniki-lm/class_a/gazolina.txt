@@ -1,0 +1,4 @@
+nom
+4 gazoliny
+5 gazolinami
+6 g

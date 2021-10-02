@@ -1,0 +1,3 @@
+nemu
+4 jednodzielnego
+5 jednodz

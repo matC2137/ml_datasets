@@ -1,0 +1,5 @@
+go
+3 sorgo
+4 sorgo
+5 sorgo
+6 so

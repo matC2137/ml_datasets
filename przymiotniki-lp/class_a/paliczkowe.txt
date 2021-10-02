@@ -1,0 +1,3 @@
+go
+3 paliczkowemu
+4 paliczkowe

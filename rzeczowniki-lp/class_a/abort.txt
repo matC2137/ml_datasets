@@ -1,0 +1,4 @@
+owi
+4 abort
+5 abortem
+6 aborcie

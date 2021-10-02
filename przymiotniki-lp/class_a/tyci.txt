@@ -1,0 +1,4 @@
+go
+3 tyciemu
+4 tyciego
+5 tycim

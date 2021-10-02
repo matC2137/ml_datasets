@@ -1,0 +1,3 @@
+ palindromy
+2 palindromów
+3 pal

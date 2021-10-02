@@ -1,0 +1,3 @@
+zatomowemu
+4 wewnątrzatomowe
+5 

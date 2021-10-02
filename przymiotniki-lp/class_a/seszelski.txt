@@ -1,0 +1,4 @@
+go
+5 seszelskim
+6 seszelskim
+7 

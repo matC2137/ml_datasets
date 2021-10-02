@@ -1,0 +1,2 @@
+kolizyjnościom
+4 bezkolizyjnośc

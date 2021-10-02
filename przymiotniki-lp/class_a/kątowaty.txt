@@ -1,0 +1,4 @@
+go
+5 kątowatym
+6 kątowatym
+7 ką

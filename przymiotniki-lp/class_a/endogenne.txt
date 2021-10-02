@@ -1,0 +1,4 @@
+nemu
+4 endogenne
+5 endogennym
+6

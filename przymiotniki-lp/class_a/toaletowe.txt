@@ -1,0 +1,4 @@
+go
+3 toaletowemu
+4 toaletowe
+5 

@@ -1,0 +1,3 @@
+jnemu
+4 dygresyjne
+5 dygresyjny

@@ -1,0 +1,4 @@
+1 okrajka
+2 okrajki
+3 okrajce
+4

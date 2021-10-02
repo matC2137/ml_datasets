@@ -1,0 +1,4 @@
+nemu
+4 zamiennego
+5 zamiennym
+6

@@ -1,0 +1,4 @@
+bo
+8 niezgraba
+9 niezgraby
+10 n

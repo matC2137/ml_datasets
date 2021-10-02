@@ -1,0 +1,3 @@
+nim
+4 długoletnich
+5 długoletni

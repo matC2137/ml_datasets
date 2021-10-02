@@ -1,0 +1,4 @@
+bedo
+4 albedo
+5 albedo
+6 albedo

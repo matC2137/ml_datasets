@@ -1,0 +1,4 @@
+y
+3 twarzom
+4 twarze
+5 twarzami

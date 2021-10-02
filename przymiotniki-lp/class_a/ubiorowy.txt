@@ -1,0 +1,4 @@
+go
+3 ubiorowemu
+4 ubiorowego
+5 

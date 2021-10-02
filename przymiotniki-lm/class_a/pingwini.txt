@@ -1,0 +1,4 @@
+nim
+4 pingwinich
+5 pingwinimi
+6

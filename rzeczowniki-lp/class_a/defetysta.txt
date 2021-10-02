@@ -1,0 +1,4 @@
+sta
+2 defetysty
+3 defetyście
+4 

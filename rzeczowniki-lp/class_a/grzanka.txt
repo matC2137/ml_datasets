@@ -1,0 +1,4 @@
+1 grzanka
+2 grzanki
+3 grzance
+4

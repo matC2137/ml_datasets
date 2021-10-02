@@ -1,0 +1,4 @@
+go
+3 gniewliwemu
+4 gniewliwe
+5 

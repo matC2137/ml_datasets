@@ -1,0 +1,3 @@
+astemu
+4 skrzydlaste
+5 skrzydla

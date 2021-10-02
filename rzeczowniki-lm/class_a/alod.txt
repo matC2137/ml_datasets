@@ -1,0 +1,4 @@
+odom
+4 alody
+5 alodami
+6 alodac

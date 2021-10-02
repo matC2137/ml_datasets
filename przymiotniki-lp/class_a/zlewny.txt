@@ -1,0 +1,4 @@
+nemu
+4 zlewnego
+5 zlewnym
+6 zle

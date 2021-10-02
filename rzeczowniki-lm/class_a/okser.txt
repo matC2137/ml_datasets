@@ -1,0 +1,4 @@
+rom
+4 oksery
+5 okserami
+6 okser

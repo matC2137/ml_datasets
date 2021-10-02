@@ -1,0 +1,4 @@
+lda
+3 koboldowi
+4 kobolda
+5 kob

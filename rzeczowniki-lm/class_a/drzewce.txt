@@ -1,0 +1,4 @@
+wc
+3 drzewcom
+4 drzewca
+5 drzew

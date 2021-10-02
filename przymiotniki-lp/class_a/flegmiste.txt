@@ -1,0 +1,4 @@
+go
+3 flegmistemu
+4 flegmiste
+5 

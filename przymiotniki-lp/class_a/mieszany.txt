@@ -1,0 +1,4 @@
+nemu
+4 mieszanego
+5 mieszanym
+6

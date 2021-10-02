@@ -1,0 +1,4 @@
+atom
+4 zatraty
+5 zatratami
+6 za

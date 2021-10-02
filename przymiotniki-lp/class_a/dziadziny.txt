@@ -1,0 +1,4 @@
+go
+5 dziadzinym
+6 dziadzinym
+7 

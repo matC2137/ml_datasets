@@ -1,0 +1,3 @@
+go
+5 bezkolizyjnym
+6 bezkolizyj

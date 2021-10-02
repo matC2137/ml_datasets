@@ -1,0 +1,3 @@
+ tablina
+5 tablinami
+6 tablinac

@@ -1,0 +1,4 @@
+rom
+11 kolatory
+12 kolatorami
+1

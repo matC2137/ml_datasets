@@ -1,0 +1,3 @@
+nim
+4 paroletnie
+5 paroletnimi

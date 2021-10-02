@@ -1,0 +1,3 @@
+nose
+5 zadartonosym
+6 zadartono
